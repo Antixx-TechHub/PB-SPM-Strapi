@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_meta_socials",
+  "info": {
+    "displayName": "metaSocial",
+    "icon": "project-diagram",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    },
+    "metaDescription": {
+      "type": "text"
+    }
+  }
+}
